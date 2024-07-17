@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @llj123456789
+- 👋 Hi, I’m aboy
 - 👀 I’m interested in code
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on code
-- 📫 How to reach me ？my qq is 2041584846 or WeChat l2041584846
-- 😄 Pronouns: xxxxxxxxxxxxxxxxxxx
+- 📫 How to reach me ？my qq is 2041584846 
 - ⚡ Fun fact: xxxxxxxxxxxxxxxxxxx
 
 <!---
